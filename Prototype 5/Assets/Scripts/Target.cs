@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * David Huerta
+ * Prototype 5
+ * Target behavior and scoring
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

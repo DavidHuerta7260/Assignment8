@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * David Huerta
+ * Prototype 5
+ * Sets game difficulty
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
